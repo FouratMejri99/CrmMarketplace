@@ -1,6 +1,6 @@
 # CRM-Marketplace
 
-CRM-Marketplace Front with ReactJs styled with Tailwind CSS using Shadcn UI for custom theming and custom components.
+## CRM-Marketplace Front with ReactJs styled with Tailwind CSS using Shadcn UI for custom theming and custom components.
 
 # Getting Started
 
